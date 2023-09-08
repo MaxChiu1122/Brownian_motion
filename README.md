@@ -1,3 +1,6 @@
+For a better version, please view the link on Notion(where I copy it to github,thanks!)
+https://held-handspring-a63.notion.site/Brownian-Motion-4aad705ef7374057bae83cd882e9ee52?pvs=4
+
 # Introduction
 
 - Brownian motion is the building block of stochastic calculus and therefore, the key to simulating stochastic processes.
