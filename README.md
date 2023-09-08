@@ -1390,4 +1390,4 @@ plt.yticks(fontsize=15)
 plt.show()
 ```
 
-![Figure_1.png](Figure_11%201.png)
+![Figure_1.png](Figure_11.png)
