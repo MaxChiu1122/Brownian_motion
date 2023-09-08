@@ -1,4 +1,5 @@
-For a better version, please view the link on Notion(where I copy it to github,thanks!)
+For a better version, please view the link on Notion, where I initially did on. Thanks!!!
+
 https://held-handspring-a63.notion.site/Brownian-Motion-4aad705ef7374057bae83cd882e9ee52?pvs=4
 
 # Introduction
